@@ -164,7 +164,7 @@ header .column span {
 
 body::before {
   content: "";
-  background-image: url("/src/images/plano-fundo/fundo.png");
+  background-image: url("..images/plano-fundo/fundo.png");
   background-size: cover;
   opacity: 0.5;
   position: absolute;
